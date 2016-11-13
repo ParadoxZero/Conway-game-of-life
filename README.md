@@ -12,3 +12,10 @@ How to use:
 Report any errors.
 
 GUI maybe added with time. Feel free to contribute.
+
+##Project Structure
+The project is divided into 3
+
+ * LifeBoard : where the magic happens
+ * Display: static class which is called to display the output
+ * Main: Main class of program.
